@@ -69,7 +69,7 @@ pip3 install requests
 ```
 Clone the repository
 ```bash
-git clone https://github.com/bagarrattaa/email-nuker
+git clone https://github.com/aigabut/email-nuker.git
 ```
 Go to the email-nuker directory
 ```bash
